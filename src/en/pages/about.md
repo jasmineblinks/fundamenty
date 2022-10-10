@@ -1,8 +1,9 @@
 ---
 title: About
 ---
+  #Introduction To GitHub
 
-### Introduction:
+## Introduction:
 
 You must have heard about GitHub and git and how it is an important tool in programming. in this article, you will be learning about GitHub and what it does, How to use some of its commands when building an application.
 
