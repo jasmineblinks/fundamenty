@@ -1,7 +1,7 @@
 ---
 title: About
 ---
-  #Introduction To GitHub
+  # Introduction To GitHub
 
 ## Introduction:
 
